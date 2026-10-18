@@ -1,0 +1,131 @@
+primary_cuisine,theme,bad_reviews
+Curry,"Small quantity",3709
+Curry,Other,7559
+Curry,"Generic, no reason given",3745
+Curry,"Cold or soggy",622
+Curry,Packaging,433
+Curry,"Taste or quality",2981
+Dessert,"Generic, no reason given",331
+Dessert,Other,765
+Turkish,"Taste or quality",1944
+Turkish,"Generic, no reason given",2530
+Turkish,Other,5675
+Turkish,"Small quantity",1921
+Turkish,"Wrong or missing items",895
+Turkish,"Stale or spoiled",1295
+Curry,"Price or value",543
+Curry,"Rider behavior",188
+Curry,"Raw or undercooked",373
+Curry,"Stale or spoiled",1635
+Chicken,"Stale or spoiled",1164
+Chicken,"Price or value",299
+Chicken,"Raw or undercooked",234
+Chicken,Other,4728
+Chicken,"Generic, no reason given",2084
+Chicken,"Small quantity",1501
+Chicken,"Cold or soggy",713
+Chicken,"Wrong or missing items",929
+Chicken,"Taste or quality",1513
+Chicken,"Rider behavior",133
+Chicken,Packaging,262
+Beverage,"Generic, no reason given",853
+Beverage,Other,1900
+Beverage,"Small quantity",678
+Italian,Other,4641
+Italian,Packaging,316
+Italian,"Generic, no reason given",2350
+Italian,"Stale or spoiled",784
+Italian,"Taste or quality",1998
+Italian,"Wrong or missing items",495
+Italian,"Insects or hygiene",109
+Italian,"Small quantity",1523
+Italian,"Cold or soggy",911
+Italian,"Price or value",362
+Snacks,Other,8550
+Snacks,"Small quantity",3008
+Snacks,"Generic, no reason given",4334
+Snacks,"Stale or spoiled",2160
+Snacks,"Taste or quality",3394
+Cakes,"Generic, no reason given",1191
+"Rice Dishes",Other,10150
+"Rice Dishes","Stale or spoiled",2541
+"Rice Dishes","Generic, no reason given",5368
+"Rice Dishes","Taste or quality",4217
+"Rice Dishes","Small quantity",5194
+"Rice Dishes","Cold or soggy",1106
+"Rice Dishes","Price or value",678
+"Rice Dishes","Insects or hygiene",312
+"Rice Dishes","Raw or undercooked",436
+"Rice Dishes","Wrong or missing items",1260
+Snacks,Packaging,611
+Cakes,Packaging,192
+Cakes,"Cold or soggy",324
+Cakes,"Taste or quality",896
+Snacks,"Wrong or missing items",1063
+Curry,"Wrong or missing items",966
+Beverage,Packaging,242
+Beverage,"Late delivery",88
+Beverage,"Taste or quality",710
+Beverage,"Stale or spoiled",351
+Beverage,"Cold or soggy",255
+Cakes,Other,2715
+Cakes,"Stale or spoiled",1800
+Cakes,"Rider behavior",94
+Snacks,"Price or value",696
+Turkish,"Late delivery",212
+Snacks,"Cold or soggy",816
+"Rice Dishes",Packaging,575
+"Rice Dishes","Rider behavior",291
+Dessert,"Cold or soggy",176
+Cakes,"Wrong or missing items",402
+Cakes,"Price or value",207
+Snacks,"Rider behavior",205
+"Rice Dishes","Late delivery",549
+Turkish,"Cold or soggy",484
+Turkish,Packaging,363
+Turkish,"Price or value",435
+Turkish,"Insects or hygiene",124
+Cakes,"Small quantity",356
+Curry,"Late delivery",355
+Dessert,"Taste or quality",282
+Dessert,"Insects or hygiene",18
+Dessert,Packaging,48
+Dessert,"Price or value",45
+Cakes,"Insects or hygiene",41
+Beverage,"Wrong or missing items",249
+Snacks,"Late delivery",371
+Beverage,"Rider behavior",48
+Curry,"Insects or hygiene",253
+Burgers,"Taste or quality",541
+Burgers,"Generic, no reason given",583
+Burgers,"Stale or spoiled",279
+Burgers,Other,1384
+Burgers,"Small quantity",304
+Italian,"Late delivery",383
+Snacks,"Raw or undercooked",394
+Chicken,"Late delivery",316
+Burgers,"Wrong or missing items",190
+Burgers,"Cold or soggy",264
+Burgers,"Price or value",95
+Burgers,Packaging,97
+Italian,"Rider behavior",173
+Italian,"Raw or undercooked",184
+Dessert,"Late delivery",47
+Dessert,"Wrong or missing items",96
+Dessert,"Small quantity",151
+Dessert,"Rider behavior",27
+Dessert,"Raw or undercooked",17
+Dessert,"Stale or spoiled",139
+Snacks,"Insects or hygiene",282
+Turkish,"Rider behavior",123
+Beverage,"Price or value",137
+Beverage,"Raw or undercooked",52
+Burgers,"Insects or hygiene",43
+Burgers,"Late delivery",112
+Beverage,"Insects or hygiene",52
+Cakes,"Late delivery",79
+Cakes,"Raw or undercooked",35
+Turkish,"Raw or undercooked",282
+Burgers,"Raw or undercooked",67
+Burgers,"Rider behavior",50
+Chicken,"Insects or hygiene",86
